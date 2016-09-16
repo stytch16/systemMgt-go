@@ -11,7 +11,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/stytch16/SystemManage/diskusage"
+	"github.com/stytch16/systemMgt-go/diskusage"
 )
 
 var verbose = flag.Bool("v", false, "show verbose progress reports")
